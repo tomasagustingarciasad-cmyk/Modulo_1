@@ -37,7 +37,7 @@ Como actividades para realizar, nos quedo intentar fotografiar la ISS con nuestr
 que se encontraba en el aula de la maestria en logistica, 
 
 -------------------------------------------
-### 25 de marzo de 2026: Comprobacion de los capacitores, análisis de frecuencias, log en servidor, etc.
+### 25 de marzo de 2026: Monitoreo de Frecuencias, Fotografía,etc.
 
 En esta clase volvimos a separarnos en grupo. 
 - Un grupo pequeño tuvo que quedar en el aula escuchando la explicación del profe sobre como elaborar el informe informe.
@@ -47,3 +47,17 @@ En esta clase volvimos a separarnos en grupo.
 - Y por último respecto a las actividades correspondientes a este día, se nos indico que todos individualmente
   debiamos escribir un informe que nos sirva como machete sobre la metodología Scrum. Este informe se encuentra en el repositorio con el nombre de informe_metodologias.pdf
 
+-------------------------------------------
+### 1 de abril de 2026: Comprobacion de los capacitores, análisis de frecuencias, log en servidor, etc.
+
+En esta clase se realizaron diversas tareas. 
+- Se inicio con el estudio del funcionamiento del programa gpredict, y como se podría conectar éste a un rotor para poder apuntar su posicion al satelite.
+- Probamos la aplicación Zello, hicimos llamadas entre nosotros y creamos grupos para comprobar su utilidad y funcionamiento.
+- Un grupo subio al techo con el objetivo de tener mejor señal para poder sintonizar una frecuencia específica hablada en clase mediante el uso de un handie.
+- Realizamos una investigación sobre la correcta configuración de la cámara Nikon Coolpix L840. La principal fuente de información fue https://www.manual.ar/nikon/coolpix-l840/manual?p=23. Un resumen de algunas cosas que vimos en la investigacion se encuentra en el archivo Investigacion_uso_nikonCoolpix_L840
+
+
+
+
+
+Otro grupo estuvimos extrayendo la informacion y metadatos de las imagenes obtenidas en la clase anterior. Se generó un archivo con esa información, el cual se encuentra publicado en el repositorio https://github.com/tomasagustingarciasad-cmyk/Entrega. 
