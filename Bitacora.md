@@ -61,3 +61,15 @@ En esta clase se realizaron diversas tareas.
 
 
 Otro grupo estuvimos extrayendo la informacion y metadatos de las imagenes obtenidas en la clase anterior. Se generó un archivo con esa información, el cual se encuentra publicado en el repositorio https://github.com/tomasagustingarciasad-cmyk/Entrega. 
+
+
+-------------------------------------------
+### 20 de mayo de 2026: Descarga 
+
+En esta clase volvimos a separarnos en grupo. 
+- Un grupo pequeño tuvo que quedar en el aula escuchando la explicación del profe sobre como elaborar el informe informe.
+- Otro grupo tuvo que estar monitoreando 2 frecuencias durante 2 horas anotando todo lo que escuchaba y de que tan lejos venían las señales.
+- Otro grupo tuvo la tarea de ver tutoriales sobre como fotografiar la Luna con la camara que se nos prestó. Y cuando oscureció debía que fotografiar la Luna y
+  los satelites de Júpiter.
+- Y por último respecto a las actividades correspondientes a este día, se nos indico que todos individualmente
+  debiamos escribir un informe que nos sirva como machete sobre la metodología Scrum. Este informe se encuentra en el repositorio con el nombre de informe_metodologias.pdf
