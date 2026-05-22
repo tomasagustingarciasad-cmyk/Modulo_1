@@ -87,15 +87,57 @@ Mientras la mayor parte de los grupos se trabajo en cuestiones de decisiones, te
 -------------------------------------------
 ### 22 de abril de 2026: 
 
+El día de hoy no pude asistir a clases, por lo que solo me voy a limitar a mensionar las tareas a realizar
+
+Las tareas indicadas para el día de hoy consistían en: 
+- redactar en la bitacora los avances realizado
+- comenzar a probar de manera práctica el control de rotores mediante gpredic
+- Finalizar la puesta a punto SDR en PC Windows, sustituyendo RTLSDR Sharp por RTLSDR++
+- Simular en MMana-Gal las antenas Magneric Loop
+- Investigar el funcionamiento del software Xnec2c para la simulacion de antenas
+- Armar modelos de las antenas:
+  -  Dipolo
+  -  Paragua
+  -  Moxon
+  -  Cinta de Metro
+  -  Yagui
+  -  Random Wire
+  -  End feed half wave
+  -  End feed random wire
+
 -------------------------------------------
 ### 29 de abril de 2026: 
+
+El día de hoy realizamos el armado de una antena dipolo y nos pusimos a probar con NanoVNA. Se logro captar algunas señales, pero al intentar realizar la sintonización desde dentro del edificio, los marcos de la ventana realizaron interferencia
+
+
+Respecto a la seleccion de la antena mas adecuada, luego de simular todas las mencionadas, decidimos utilizar la antena Moxon para el prototipo final. Aunque la antena Yagi daba un poco más de ganancia teórica en las simulaciones, decidimos priorizar la compacidad y la robustez de la Moxon para integrarla mejor al soporte motorizado.
+
+Además del análisis bibliográfico, hoy calculamos las dimensiones físicas exactas para un prototipo de antena Moxon sintonizada a los **145 MHz**. Utilizamos un calculador técnico considerando un 
+conductor de 1 mm de diámetro, obteniendo los siguientes parámetros para el diseño:
+- Ancho (A): 748.8mm.
+- Excitado (B): 108.0mm.
+- Separación de puntas (C): 25.8mm.
+- Longitud total del excitador (Lexc): 964.7mm.
+- Longitud total del reflector (Lref): 1031.9mm.
+
+Con un fondo total de solo 275.4mm, esta antena es extremadamente eficiente para su tamaño.
+
+Hicimos esta elección para asegurar que el sistema de seguimiento controlado por Arduino pueda mover la 
+estructura sin problemas de inercia excesiva, manteniendo la seguridad de los 5V para no quemar nada.
 
 -------------------------------------------
 ### 6 de mayo de 2026: 
 
+El día de hoy hubo suspención de clases por viento zonda, por lo que solo investigamos ideas de como fabricar la antena moxon y vimos el video y bibliografía enviado por el profesor.
+
+
 -------------------------------------------
 ### 13 de mayo de 2026: 
 
+El día de hoy, debido a que no contabamos aún con la antena moxon, realizamos la conexion de una antena dipolo para sintonizar la Estacion Espacial Internacional. Al no disponer aún la bolsa con conectores del profe, usamos muchos conectores en serie, dificultando el funcionamiento. Luego arreglamos algunos cables que se habían cortado o tenían mala conexion en esa antena y terminamos de deliberar como se construiría la antena moxon. 
+
+Finalmente, las conexiones las realizamos sin sentido debido a que nos equivocamos en el horario y el paso de la ISS no era en el horario de las 7:44 pm como habíamos pensado, sino que era a las 7:44 am. 
 
 -------------------------------------------
 ### 20 de mayo de 2026: Descarga de software, diseño de sistema mecanico, extraccion de informacion gpredict, construccion antena y diseño y construccion de sistema electronico
