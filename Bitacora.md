@@ -59,9 +59,7 @@ En esta clase se realizaron diversas tareas.
 -------------------------------------------
 ### 8 de abril de 2026: 
 
-El día de hoy se comenzo extrayendo la informacion y metadatos de las imagenes obtenidas en la clase anterior. Se generó un archivo con esa información, el cual se encuentra publicado en el repositorio https://github.com/tomasagustingarciasad-cmyk/Entrega. 
-
-- Esta clase tambien se nos presentó el principio de funcionamiento de las antenas, junto con muchos modelos de antena, tal como la dipolo, paragua, moxon, etc. 
+ Esta clase tambien se nos presentó el principio de funcionamiento de las antenas, junto con muchos modelos de antena, tal como la dipolo, paragua, moxon, etc. 
 - Se nos presento un software que se utiliza para el diseño de las antenas y se puede observar su alcance y direccion, abocando un grupo al diseño de diversas antenas para su posterior comparacion en la siguiente clase.
 -  Tambien se nos presento el dispositivo Nano VNA, donde tambien se nos explico parte de su funcionamiento.
 
@@ -72,6 +70,19 @@ Entre las principales tareas realizadas (Ademas de las mecionadas previamente) d
 
 -------------------------------------------
 ### 15 de abril de 2026: 
+El día de hoy se comenzo extrayendo la informacion y metadatos de las imagenes obtenidas en la clase anterior. Se generó un archivo con esa información, el cual se encuentra publicado en el repositorio https://github.com/tomasagustingarciasad-cmyk/Entrega. 
+
+Ademas de eso, estudiamos y trajamos con el batido de ondas sumando dos señales sinusoidales, algo fundamental para entender cómo el SDR 
+baja las frecuencias altas (down converter).
+
+El profe nos pasó unos scripts en R para analizar esto matemáticamente.
+Tambien decidimos la utilización de una montura ecuatorial para poder seguir a un satélite como si estuvieramos en el polo. Para poder trabajar con el sistema de seguimiento se le debe indicar a gpredict el tipo de montura a utilizar.
+
+Se converso de la posibilidad de realizar el movimiento del sistema mecanico con una transmision mediante bandas en lugar de engranajes. 
+Otro tema importante conversado es que al utilizar tensiones mayores que las propias de arduino para poder manejar los motores, deberemos tener cuidado en las conexiones realizadas.
+
+Mientras la mayor parte de los grupos se trabajo en cuestiones de decisiones, teoricas y de software en la oficina de la maestria en logistica, el grupo al que yo pertenecía se encargó de montar una antena de hilo largo en el mastil de la bandera, lo que nos permitió salir al final de la clase y monitorear frecuencias entre 7 MHz y 28 MHz. Al realizar este monitoreo logramos escuchar una señal de radio de Chile, otros paises los cuales no logramos identificar pero que por el acento parecía ser Cuba o cercano, y logramos sintonizar una señal en la cual se lograba escuchar musica que parecía ser japonesa.
+
 
 -------------------------------------------
 ### 22 de abril de 2026: 
